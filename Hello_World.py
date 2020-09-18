@@ -11,5 +11,4 @@ def greet(who_to_greet):
 
 name = input("your name? ")
 print(greet("World"))
-print(greet("Mike"))
 print("Hello,", name)
